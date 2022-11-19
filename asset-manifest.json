@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/fit-app-client/static/css/main.c3efb6ae.css",
+    "main.js": "/fit-app-client/static/js/main.11eda5d1.js",
+    "static/media/strength.jpg": "/fit-app-client/static/media/strength.3a7e8b3665954eb4e388.jpg",
+    "index.html": "/fit-app-client/index.html",
+    "main.c3efb6ae.css.map": "/fit-app-client/static/css/main.c3efb6ae.css.map",
+    "main.11eda5d1.js.map": "/fit-app-client/static/js/main.11eda5d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3efb6ae.css",
+    "static/js/main.11eda5d1.js"
+  ]
+}
